@@ -1,0 +1,233 @@
+.first{
+    background-color: rgb(72, 11, 240);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    justify-content: center;
+    justify-items: center;
+        align-items: center;
+        text-align: center;
+}
+.first h3{
+    font-weight: 900;
+}
+.row2{
+    display: flex;
+     padding: 10px 200px;
+}
+.row2 .col{
+    padding-top: 20px;
+    width: 400px;
+    border: 3PX solid white;
+    margin: 0 20px;
+    border-radius: 15px;
+    height: 270px;
+    background-color: white;
+    color: black;
+}
+.row2 .col img{
+    border-radius: 15px;
+    width: 95%;
+}
+.row2 .col .flex1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center ;
+   
+    
+}
+.row2 .col{
+    text-align: center;
+}
+.row2 .col .flex1 span{
+background-color: rgb(72, 11, 240);
+border-radius: 5px;
+height: 20px;
+width: 150px;
+margin-top: 5px;
+}
+
+    .second{
+        background-color: white;
+        color: black;
+    }
+   .second .row{
+    display: flex;
+    padding: 30px 70px;
+    justify-content: center;
+    align-items: center;
+   }
+   .second .row .col1{
+    width: 400px;
+    height: 300px;
+    padding: 0 25px;
+    margin: 0 15px;
+   }
+   .second .row .col2{
+    width: 400px;
+    height: 300px;
+   }
+   .second .row .col1 p small{
+    font-weight: 900;
+    font-size: 18px;
+   }
+   .second .row .col1 p small span{
+ color:  rgb(72, 11, 240);
+   }
+   .enjoy h4{
+    font-size: 18px;
+    text-align: start;
+    justify-content: start;
+    align-items: flex-start;
+   }
+   .enjoy div{
+display: flex;
+text-align: start;
+justify-content: start;
+align-items: flex-start;
+
+   }
+   .enjoy button{
+    background-color:  rgb(72, 11, 240);
+    color: white;
+    padding: 5px 8px;
+    border: none;
+    border-radius: 4px;
+  
+   }
+
+   .second .col2 img{
+    margin-left: 150px;
+    border-radius: 45px;
+    width: 250px;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    border: 2px solid  rgb(72, 11, 240);
+    
+   }
+   .end{
+    background-color: rgb(72, 11, 240);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    justify-content: center;
+    justify-items: center;
+        align-items: center;
+        text-align: center;
+   }
+   .first h3{
+    font-weight: 900;
+}
+.row2{
+    display: flex;
+     padding: 10px 200px;
+}
+.end .row2 .col{
+    padding-top: 5px;
+    width: 400px;
+    border: 3PX solid white;
+    margin: 0 20px;
+    border-radius: 15px;
+    height: 170px;
+    background-color: white;
+    color: black;
+}
+.end .row2 .col img{
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    border: 2px solid rgb(59, 9, 243);
+}
+.end .row2 .col .flex1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.end .row2 .col 
+b{
+    display: flex;
+    color: black;
+}
+.end.row2 .col{
+    text-align: start;
+}
+.around{
+    background-color: rgb(253, 253, 255);
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20 px;
+    border-bottom-right-radius: 65px;
+    border-top-left-radius: 65px;
+ 
+    border: 5px solid rgb(59, 9, 243);;
+    color: black;
+}
+ fieldset{
+    border: none;
+    width: 45%;
+   
+    margin: 40px auto;
+    padding-left: 10 px;
+}
+form{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30 px;
+    padding-left: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(59, 9, 243);
+    
+}
+
+h2{
+    text-align: center;
+    color: blue;
+ 
+}
+.around input {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(59, 9, 243);
+  
+}
+.around label {
+    color: blue;
+  
+}
+
+
+
+button{
+    background-color:rgb(4, 8, 236);
+    color: rgb(255, 255, 255);
+    padding: 6px 10px;
+    border:none;
+    height: 30px;
+    width: 180px;
+    border-radius: 5px;
+    align-content: center;
+    margin-left: 350px;
+    box-shadow: 5px 5px black;
+
+}
+input{
+    width:50%;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 30 px;
+    color: blue;
+}
+footer .flex{
+    display: flex;
+}
+footer .flex div{
+    width: 250px;
+    margin: 0 50px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(238, 203, 5);
+    color: rgb(0, 0, 0);
+}
